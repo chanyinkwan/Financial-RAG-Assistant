@@ -4,7 +4,7 @@
 
 ## Client
 
-**Horizon Wealth Partners** (anonymised) -- A mid-size independent financial advisory firm serving high-net-worth clients across the UK.
+**HWP** (anonymised) -- A mid-size independent financial advisory firm serving high-net-worth clients across the UK.
 
 | Detail | Value |
 |--------|-------|
@@ -15,7 +15,7 @@
 
 ## The Problem
 
-Horizon's analysts spent 3+ hours per client meeting preparing by searching through regulatory documents, fund prospectuses, and internal research notes. Their challenges:
+HWP's analysts spent 3+ hours per client meeting preparing by searching through regulatory documents, fund prospectuses, and internal research notes. Their challenges:
 
 - Documents scattered across shared drives in PDF, Word, and Excel formats
 - Full-text search missed context: searching "ESG requirements" returned 200+ results with no ranking
@@ -151,7 +151,7 @@ The system embeds the query and retrieves the top 3 most relevant chunks from Qd
 ```
 Based on the retrieved documents, here is the information you requested:
 
-**Fee Structure -- Horizon Balanced Growth Fund:**
+**Fee Structure -- HWP Balanced Growth Fund:**
 The Fund charges an Annual Management Charge (AMC) of 0.75% of NAV, calculated
 daily and deducted monthly. There is also a performance fee of 10% on returns
 above the composite benchmark, subject to a high-water mark and capped at 1.5%
