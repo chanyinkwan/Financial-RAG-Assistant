@@ -1,0 +1,50 @@
+QUARTERLY PORTFOLIO REVIEW
+Client: Mrs. Eleanor Whitfield (Client ID: HWP-2019-0347)
+Portfolio: Balanced Growth -- Discretionary Managed
+Review Period: Q4 2025 (1 October -- 31 December 2025)
+Prepared by: James Harrington, Senior Investment Advisor
+
+1. PORTFOLIO SUMMARY
+
+  Total Portfolio Value (31 Dec 2025):  GBP 1,247,830
+  Total Portfolio Value (30 Sep 2025):  GBP 1,198,450
+  Quarterly Return:                     +4.12%
+  Benchmark Return (Composite):        +3.48%
+  Excess Return:                        +0.64%
+
+2. ASSET ALLOCATION
+
+  Asset Class               Current %    Target %    Variance
+  UK Equities                  18.3%       15.0%       +3.3%
+  Global Equities              34.7%       35.0%       -0.3%
+  Investment Grade Bonds       22.1%       25.0%       -2.9%
+  High Yield Bonds              4.8%        5.0%       -0.2%
+  Alternatives (Property/PE)    9.6%       10.0%       -0.4%
+  Cash & Money Market          10.5%       10.0%       +0.5%
+
+3. PERFORMANCE COMMENTARY
+
+The portfolio outperformed its composite benchmark by 64 basis points during
+Q4 2025, primarily driven by the overweight position in UK equities which
+benefited from the Bank of England's decision to hold rates at 4.25%.
+Global equities contributed positively, led by US technology holdings.
+The underweight in investment-grade bonds was a modest drag on relative
+performance as gilt yields fell marginally during the quarter.
+
+4. RECOMMENDED REBALANCING
+
+To bring the portfolio back within target allocation tolerances, we recommend:
+
+  (a) Reduce UK Equities by approximately GBP 41,200 (3.3% of portfolio)
+      to return to the 15% target weighting.
+  (b) Increase Investment Grade Bonds by approximately GBP 36,100 (2.9%)
+      to restore the 25% strategic allocation.
+  (c) Allocate remaining GBP 5,100 to Alternatives to close the 0.4% gap.
+
+Estimated transaction costs for rebalancing: GBP 185 (0.015% of portfolio).
+
+5. NEXT REVIEW
+
+Scheduled for April 2026. We will reassess the strategic allocation in
+light of expected monetary policy changes and any shifts in client
+risk tolerance following the annual suitability review.

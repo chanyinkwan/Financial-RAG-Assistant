@@ -1,0 +1,76 @@
+HORIZON BALANCED GROWTH FUND
+Prospectus -- Issued 15 March 2025
+FCA Authorised and Regulated | ISIN: GB00B7H0WQ18
+
+1. FUND OVERVIEW
+
+The Horizon Balanced Growth Fund ("the Fund") is an open-ended investment
+company (OEIC) authorised by the Financial Conduct Authority under the
+FCA Handbook COLL rules. The Fund is managed by Horizon Asset Management
+Limited, a subsidiary of Horizon Wealth Partners LLP.
+
+2. INVESTMENT OBJECTIVE
+
+The Fund seeks to achieve long-term capital growth combined with moderate
+income generation over rolling 5-year periods. The Fund targets a return
+of CPI + 3.5% per annum after fees, measured over any 5-year period.
+
+The Fund invests across a diversified portfolio of global equities (40-60%),
+investment-grade bonds (20-35%), alternative assets (5-15%), and cash or
+near-cash instruments (0-10%).
+
+3. BENCHMARK
+
+The Fund is measured against a composite benchmark comprising:
+  - 50% MSCI World Index (GBP hedged)
+  - 35% Bloomberg Global Aggregate Bond Index (GBP hedged)
+  - 15% HFRX Global Hedge Fund Index
+
+4. FEE STRUCTURE
+
+4.1 Annual Management Charge (AMC): 0.75% of Net Asset Value, calculated
+    daily and deducted monthly in arrears.
+
+4.2 Performance Fee: 10% of returns above the composite benchmark,
+    calculated annually with a high-water mark provision. The performance
+    fee is subject to a cap of 1.5% of NAV in any single calendar year.
+
+4.3 Ongoing Charges Figure (OCF): Estimated at 0.92% (includes AMC,
+    custody fees, audit fees, and regulatory levies).
+
+4.4 Entry/Exit Charges: None. No initial charge or redemption fee applies.
+
+4.5 Transaction Costs: Estimated at 0.08% per annum based on prior year
+    portfolio turnover.
+
+5. MINIMUM INVESTMENT
+
+  - Initial subscription: GBP 25,000
+  - Additional subscriptions: GBP 5,000
+  - Regular savings plan: GBP 1,000 per month (minimum 12-month commitment)
+
+6. RISK FACTORS
+
+Investors should be aware of the following material risks:
+
+  (a) Market Risk: The value of investments may fall as well as rise. Past
+      performance is not a reliable indicator of future results.
+  (b) Currency Risk: The Fund holds non-GBP assets. Currency fluctuations
+      may reduce or increase returns.
+  (c) Credit Risk: Bond holdings are subject to issuer default risk,
+      particularly in periods of economic stress.
+  (d) Liquidity Risk: Alternative asset holdings (5-15%) may have limited
+      liquidity and longer redemption periods.
+  (e) Interest Rate Risk: Rising interest rates may reduce the capital
+      value of fixed-income holdings.
+  (f) Concentration Risk: While diversified, the Fund may hold up to 8%
+      in a single equity position during rebalancing periods.
+
+7. DEALING AND VALUATION
+
+Dealing is available on each London business day. The Fund is valued at
+12:00 noon GMT. Orders received before 10:00 GMT are executed at the
+same-day valuation point. Settlement occurs on T+3.
+
+This document does not constitute investment advice. Investors should seek
+independent financial advice before subscribing to the Fund.

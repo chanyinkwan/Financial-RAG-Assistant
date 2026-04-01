@@ -1,0 +1,48 @@
+FINANCIAL CONDUCT AUTHORITY
+Policy Statement PS25/3 -- ESG Disclosure Requirements for Wealth Managers
+Published: 22 January 2025
+
+1. SUMMARY
+
+The FCA is introducing mandatory ESG disclosure requirements for FCA-authorised
+wealth management firms under the Sustainability Disclosure Requirements (SDR)
+regime. This policy statement sets out final rules following Consultation Paper
+CP23/16 and subsequent industry feedback.
+
+2. SCOPE
+
+These requirements apply to all FCA-authorised firms providing discretionary
+or advisory investment management services to retail and professional clients,
+with assets under management exceeding GBP 5 billion at firm level.
+
+3. KEY REQUIREMENTS
+
+3.1 Product-Level Disclosures: Firms must publish sustainability entity reports
+    for each managed portfolio strategy, including Scope 1, 2, and 3 carbon
+    metrics where data is available.
+
+3.2 Client-Facing Communications: All client reports, quarterly reviews, and
+    marketing materials must include a standardised ESG summary panel showing
+    the portfolio's sustainability rating on the FCA's five-tier classification
+    (Tier 1: Not Promoted as Sustainable through to Tier 5: Sustainability Impact).
+
+3.3 Anti-Greenwashing: Firms must not use sustainability-related terms in fund
+    or portfolio names unless the strategy meets the corresponding SDR label
+    criteria. Existing products have until 30 September 2025 to comply or rename.
+
+4. EFFECTIVE DATES AND COMPLIANCE DEADLINES
+
+  - Naming and marketing rules: 30 September 2025
+  - Product-level sustainability disclosures: 31 December 2025
+  - Entity-level reporting (annual): First report due 30 June 2026
+  - Client-facing ESG summary panels: Must appear on all reports issued
+    from 1 January 2026 onwards
+
+5. ENFORCEMENT
+
+Non-compliance may result in supervisory action including restrictions on
+new client onboarding, mandatory corrective disclosures, and financial
+penalties under the FCA's Decision Procedure and Penalties Manual (DEPP).
+
+Firms are advised to begin gap analysis immediately and engage compliance
+teams in mapping current disclosures against the new SDR framework.
