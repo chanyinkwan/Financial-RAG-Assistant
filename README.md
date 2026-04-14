@@ -2,7 +2,7 @@
 
 > A retrieval-augmented generation system that lets analysts query thousands of financial documents in natural language, with source citations.
 
-## Client
+## Scenario
 
 **HWP** (anonymised) -- A mid-size independent financial advisory firm serving high-net-worth clients across the UK.
 
